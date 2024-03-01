@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-02-26T15:39:32.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gjVMMCMlGrgtL4ADJ_Ev" version="23.1.6" type="browser">
+  <diagram name="Page-1" id="XBLxOP5rSVkptabaYSPx">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ADMIN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-3" value="Email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-4" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-5" value="PK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CUSTOMER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-9" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="140" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-10" value="PK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="140" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-11" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-12" value="Phone Number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="260" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-13" value="Address" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Vehicle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="500" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-15" value="Number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="560" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-16" value="PK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="560" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-17" value="Day_Price" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="620" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-18" value="Vehicle_Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="680" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuJmC_qY3BVR2YnC2-lF-19" value="Color" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="740" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
