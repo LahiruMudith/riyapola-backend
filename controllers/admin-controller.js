@@ -10,7 +10,7 @@ const registerAdmin = (req, res) => {
 const loginAdmin = (req, res) => {
     connection.query('select * from admin where email=? && password=? ',[req.body.email, req.body.password], (err, rows) => {
         if (err) throw err
-        res.send("Login Successfully !" )
+        res.send(rows.body.email)
       })
 }
 
