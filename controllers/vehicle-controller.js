@@ -1,7 +1,7 @@
 const connection = require('../db/db-connection');
 
 const addVehicle = (req, res) => {
-    connection.query('insert into vehicle values(?,?,?,?)',[req.body.vehicle_Number, req.body.Day_Price, req.body.Vehicle_Name, req.body.color], (err, rows) => {
+    connection.query('insert into vehicle (V_Number, Day_Price, V_Name, color) values(?,?,?,?)',[req.body.vehicle_Number, req.body.Day_Price, req.body.Vehicle_Name, req.body.color], (err, rows) => {
         if (err) throw err
         res.send(rows)
       })
